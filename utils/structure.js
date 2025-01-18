@@ -11,5 +11,6 @@ export const teamStruct = () => {
     GF: 0,
     GA: 0,
     GD: 0,
+    Pts: 0,
   };
 };
