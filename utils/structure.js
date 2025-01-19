@@ -1,7 +1,3 @@
-export const struct = () => {
-  return {};
-};
-
 export const teamStruct = () => {
   return {
     MP: 0,
